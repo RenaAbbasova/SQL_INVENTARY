@@ -1,2 +1,0 @@
-str='Python'
-print(str)
